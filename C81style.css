@@ -1,0 +1,18 @@
+
+h1
+{
+	color: rgba(6, 15, 139, 0.678); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image:url(bg1.jpg);
+	background-position:center ;
+	background-size: cover;
+}
+
+#my_canvas{
+background-color: aliceblue;
+border-color: black;
+border-width: 4px;
+border-style:solid;
+}
